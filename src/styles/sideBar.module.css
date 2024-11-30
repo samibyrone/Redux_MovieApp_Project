@@ -1,0 +1,34 @@
+.sideBarContainer {
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+    height: auto;
+    gap: 20px;
+    margin: 50px;
+    /* background-color: chocolate; */
+}
+
+.sideBarContainer p{
+    color: cornflowerblue;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.sideBarContainer p:hover{
+    color: antiquewhite;
+}
+
+.sideBarContainer button {
+    width: 15vw; 
+    height: auto;
+    margin: auto;
+    border-radius: 50px;
+   background-color: aqua;
+}
+
+.sideBarContainer button:hover{
+    height: auto;
+    margin: auto;
+   background-color: aquamarine;
+}
+

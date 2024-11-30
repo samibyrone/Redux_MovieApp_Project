@@ -1,0 +1,32 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    color: darkslateblue;
+    font-size: 50px;
+    font-weight: 900;
+    margin-left: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.searchInput{
+    width: 300px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: -20%;
+    border: none;
+    border-radius: 10px;
+}
+
+.HeaderList{
+    display: flex;
+    align-items: center;
+    gap: 70px;
+}
+
+.HeaderList p{
+    color: darkslateblue;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

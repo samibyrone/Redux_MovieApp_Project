@@ -1,0 +1,16 @@
+.outletContainer {
+    display: flex;
+    margin: auto;
+    height: auto;
+    background: darkslateblue;
+    /* width: 100%; */
+}
+
+.wrapper {
+    width: 1700px;
+    margin: auto;
+    font-size: 40px;
+    font-weight: 700;
+    color: black;
+    background-color: burlywood;
+}
